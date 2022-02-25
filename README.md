@@ -1,8 +1,7 @@
 # APIForum
 Desenvolvendo uma API utilizando Spring Boot
 
-Módulo 1:
-
+#Módulo 1:
 Configura sua aplicação Spring sem o uso de arquivos XML, 
 
 Acelere seu desenvolvimento web com ajuda do Spring Devtools, 
